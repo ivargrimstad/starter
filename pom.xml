@@ -84,6 +84,9 @@
         <module>rest-starter</module>
         <module>starter-ui</module>
         <module>archetypes/jakartaee10-minimal</module>
+        <module>archetypes/jakartaee9.1-minimal</module>
+        <module>archetypes/jakartaee8-minimal</module>
+        <module>cli</module>
     </modules>
 
     <dependencies>
